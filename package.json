@@ -1,0 +1,32 @@
+{
+  "name": "init",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "amazon-product-api": "^0.4.4",
+    "axios": "^0.18.0",
+    "chart.js": "^2.7.2",
+    "dotenv": "^6.0.0",
+    "jodit-react": "^1.0.17",
+    "lodash": "^4.17.10",
+    "react": "^16.3.2",
+    "react-bootstrap": "^0.32.4",
+    "react-chartjs-2": "^2.7.0",
+    "react-content-loader": "^3.2.0",
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "recharts": "^1.0.0-beta.10",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.2.0",
+    "reselect": "^3.0.1",
+    "wordpress-rest-api-oauth-1": "^1.1.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

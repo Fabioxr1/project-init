@@ -1,0 +1,7 @@
+.content-post {
+    min-height: 180px;
+    border: 1px solid;
+    padding: 10px;
+    margin: 5px;
+}
+.content-post h1{color:#007bff}
